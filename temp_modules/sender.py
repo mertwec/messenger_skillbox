@@ -8,4 +8,4 @@ while True:
                              )
 
 
-#print(f'{responce.json()}')
+# print(f'{responce.json()}')
